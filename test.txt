@@ -1,7 +1,4 @@
 testcontent123
 
-<<<<<<< Updated upstream
-bug321
-=======
-bug123
->>>>>>> Stashed changes
+bug123321
+
